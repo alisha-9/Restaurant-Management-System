@@ -35,11 +35,6 @@ A Java-based application that manages restaurant orders, allows users to add ite
 
 ---
 
-## 🗂️ **Project Structure**
-
-
----
-
 ## ⚙️ **Setup and Installation**
 
 ### 1. Clone the Repository
